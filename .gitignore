@@ -11,14 +11,14 @@ frontend/coverage/
 frontend/*.lcov
 
 # Backend
-backend/target/
-backend/build/
-backend/.gradle/
-backend/out/
-backend/bin/
-!backend/gradle/wrapper/gradle-wrapper.jar
-!backend/**/src/main/**/build/
-!backend/**/src/test/**/build/
+resume-enhancer-backend/target/
+resume-enhancer-backend/build/
+resume-enhancer-backend/.gradle/
+resume-enhancer-backend/out/
+resume-enhancer-backend/bin/
+!resume-enhancer-backend/gradle/wrapper/gradle-wrapper.jar
+!resume-enhancer-backend/**/src/main/**/build/
+!resume-enhancer-backend/**/src/test/**/build/
 
 # IDE - VSCode
 .vscode/*
